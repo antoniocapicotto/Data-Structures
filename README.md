@@ -8,7 +8,7 @@ From linked lists to binary trees and hash tables, this repository covers a wide
 
 ## Technologies Used
 
-✨ C++ | 🌟 Standard Template Library (STL)
+✨ C++ | 🌟 Visual Studio Code
 
 ## Data Structures
 
