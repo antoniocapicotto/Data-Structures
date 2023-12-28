@@ -1,4 +1,4 @@
-# C++ Data Structures Showcase 📚🔍
+# C++ Data Structures 📚🔍
 
 ## Description
 
