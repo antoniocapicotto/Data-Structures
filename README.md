@@ -2,7 +2,7 @@
 
 ## Technologies Used
 
-✨ C++ | 🌟 Visual Studio Code
+C++ | Visual Studio Code
 
 ## Data Structures
 
