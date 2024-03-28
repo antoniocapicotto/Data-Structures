@@ -1,10 +1,4 @@
-# C++ Data Structures 📚🔍
-
-## Description
-
-👋 Welcome to the **C++ Data Structures Showcase** GitHub repository! This repository is a treasure trove of various data structure implementations using C++. Dive into the world of efficient and powerful data manipulation as you explore a collection of meticulously crafted data structures.
-
-From linked lists to binary trees and hash tables, this repository covers a wide range of fundamental and advanced data structures. Each implementation showcases the elegance and efficiency of C++ in handling complex data organization and manipulation tasks.
+# C++ Data Structures
 
 ## Technologies Used
 
